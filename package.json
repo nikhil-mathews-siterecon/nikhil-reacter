@@ -1,14 +1,14 @@
 {
-  "name": "nikhil-reacter",
+  "name": "@siterecon/site-design",
   "version": "1.0.0",
   "description": "testing package creation",
   "license": "MIT",
-  "repository": "nikhil-mathews-siterecon/nikhil-reacter",
+  "repository": "siterecon/site-design",
   "author": {
     "name": "Nikhil Mathews",
     "email": "nikhil.mathew@siterecon.ai"
   },
-  "homepage": "https://github.com/nikhil-mathews-siterecon/nikhil-reacter",
+  "homepage": "https://github.com/siterecon/site-design",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
